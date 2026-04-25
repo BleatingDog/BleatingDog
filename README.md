@@ -1,6 +1,5 @@
 # Hi, I'm Santiago Gonzalez 👋
 
-<ONE SENTENCE ABOUT YOU - who you are, what you're doing, why you're here.>
 I am a Programming and Software Development student at LaGuardia Community College, passionate in building apps and websites!
 
 ## 🛠 What I'm learning right now
