@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Santiago Gonzalez 👋
 
-<!--
-**BleatingDog/BleatingDog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<ONE SENTENCE ABOUT YOU - who you are, what you're doing, why you're here.>
+I am a Programming and Software Development student at LaGuardia Community College, passionate in building apps and websites!
 
-Here are some ideas to get you started:
+## 🛠 What I'm learning right now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SwiftUI for IOS Development.
+- Full stack web development using PHP.
+- Git and Github best practices.
+
+## 🎯 What I'm working on
+
+- 🔭 Currently building LaGuardia App using SwiftUI!
+- 🌱 Next up: React to build interactive interfaces
+
+## 📫 How to reach me
+
+- Email: santygonzalez186@gmail.com
+- LinkedIn: [Santiago Gonzalez](https://www.linkedin.com/in/santiago-gonzalez-649958330)
+
+## ⚡ A little more about me
+
+- 🎓 Enrolled at LaGuardia Community College (LAGCC)
+- 💬 Ask me about videogames
+- ⚡ Fun fact: My favorite band is Twenty One Pilots
+
+---
